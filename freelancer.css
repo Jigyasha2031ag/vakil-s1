@@ -1,0 +1,24 @@
+.nav-link active{
+    color: black;
+}
+
+.gyhu {
+position: absolute;
+top: 120% ;
+right: 30%;
+}
+
+.home_image {
+position: absolute;
+top: 20%;
+right: 10%;
+height: 60%;
+width: 40%;
+}
+
+.class_logo{
+    height: 35%;
+    width: 20%;
+    position: absolute;
+    top: 0;
+}
